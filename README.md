@@ -16,7 +16,7 @@ Para este projeto, o desafio foi tornar o site responsivo com as propriedades de
 
 ## Screenshot
 
-[<img src="screen.gif" alt="card layout">](./screenshot.jpg)
+[<img src="./screen.gif" alt="card layout">](./screenshot.jpg)
 
 ## Ferramentas
 
