@@ -16,13 +16,11 @@ Para este projeto, o desafio foi tornar o site responsivo com as propriedades de
 
 ## Screenshot
 
-Screenshot from the desktop layout.
-
-[<img src="screen.gif" alt= layout desktop>](./screenshot.jpg)
+[<img src="screen.gif" alt="card layout">](./screenshot.jpg)
 
 ## Ferramentas
 
-- HTML 5 com semântica
+- HTML5 com semântica
 - Estilização com CSS
 - Utilização de Flexbox
 - Funcionamento das abas com JavaScript
